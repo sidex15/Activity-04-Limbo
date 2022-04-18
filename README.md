@@ -1,2 +1,2 @@
 # Activity-04-Limbo
-Open-CV Read Image test
+Activity 04 - Open-CV Read Image test
